@@ -7,5 +7,6 @@ This repository contains my Leetcode problem-solving journey.
 - Day 3: Reverse String 
 - Day 4: Best time to Buy & Sell Stock
 - Day 5: Calculation of Pivot Index
+- Day 6: Number of 1 bits 
 ## Languages used 
 - C language 
