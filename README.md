@@ -9,6 +9,7 @@ This repository contains my Leetcode problem-solving journey.
 - Day 5: Calculation of Pivot Index
 - Day 6: Number of 1 bits
 - Day 7: Add digits
-- Day 8: Power of Two 
+- Day 8: Power of Two
+- Day 9: Missing Number
 ## Languages used 
 - C language 
