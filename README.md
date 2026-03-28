@@ -11,5 +11,7 @@ This repository contains my Leetcode problem-solving journey.
 - Day 7: Add digits
 - Day 8: Power of Two
 - Day 9: Missing Number
+- Day 10:
+- Day 11: Move Zeroes
 ## Languages used 
 - C language 
